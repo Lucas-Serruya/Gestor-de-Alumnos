@@ -1,0 +1,72 @@
+c:\users\user\documents\visual studio 2010\Projects\Gestor De Alumnos V1.0\Gestor De Alumnos V1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\Gestor De Alumnos V1.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor_De_Alumnos_V1._0.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\Gestor De Alumnos V1.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor_De_Alumnos_V1._0.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\Gestor De Alumnos V1.0\Gestor De Alumnos V1.0\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\user\documents\visual studio 2010\Projects\Gestor De Alumnos V1.0\Gestor De Alumnos V1.0\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\user\documents\visual studio 2010\Projects\Gestor De Alumnos V1.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor_De_Alumnos_V1._0.AltaALumno.resources
+c:\users\user\documents\visual studio 2010\Projects\Gestor De Alumnos V1.0\Gestor De Alumnos V1.0\bin\Debug\Gestor De Alumnos V1.0.exe
+c:\users\user\documents\visual studio 2010\Projects\Gestor De Alumnos V1.0\Gestor De Alumnos V1.0\bin\Debug\Gestor De Alumnos V1.0.pdb
+c:\users\user\documents\visual studio 2010\Projects\Gestor De Alumnos V1.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor De Alumnos V1.0.exe
+c:\users\user\documents\visual studio 2010\Projects\Gestor De Alumnos V1.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor De Alumnos V1.0.pdb
+C:\Users\lds\Desktop\Gestor De Alumnos V1.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor De Alumnos V1.0.exe
+C:\Users\lds\Desktop\Gestor De Alumnos V1.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor De Alumnos V1.0.pdb
+C:\Users\lds\Desktop\Gestor De Alumnos V1.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor_De_Alumnos_V1._0.AltaALumno.resources
+C:\Users\lds\Desktop\Gestor De Alumnos V1.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor_De_Alumnos_V1._0.Form1.resources
+C:\Users\lds\Desktop\Gestor De Alumnos V1.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor_De_Alumnos_V1._0.ModificarAlumno.resources
+C:\Users\lds\Desktop\Gestor De Alumnos V1.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor_De_Alumnos_V1._0.Properties.Resources.resources
+C:\Users\lds\Desktop\Gestor De Alumnos V1.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor De Alumnos V1.0.csproj.GenerateResource.Cache
+C:\Users\lds\Desktop\Gestor De Alumnos V1.0\Gestor De Alumnos V1.0\bin\Debug\Gestor De Alumnos V1.0.exe
+C:\Users\lds\Desktop\Gestor De Alumnos V1.0\Gestor De Alumnos V1.0\bin\Debug\Gestor De Alumnos V1.0.pdb
+C:\Users\lds\Desktop\Gestor De Alumnos V1.0\Gestor De Alumnos V1.0\bin\Debug\AlumnosDB.mdf
+C:\Users\lds\Desktop\Gestor De Alumnos V1.0\Gestor De Alumnos V1.0\bin\Debug\AlumnosDB_log.ldf
+C:\Users\lds\Desktop\Gestor De Alumnos V1.0\Gestor De Alumnos V1.0\bin\Debug\Gestor De Alumnos V1.0.exe.config
+C:\Users\lds\Desktop\Gestor De Alumnos V1.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor_De_Alumnos_V1._0.ListadoCompleto.resources
+C:\Users\lds\Desktop\Gestor De Alumnos V1.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor_De_Alumnos_V1._0.Probador.resources
+C:\Users\lds\Desktop\Gestor De Alumnos V1.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor De Alumnos V1.0.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Gestor De Alumnos V2.0\Gestor De Alumnos V1.0\bin\Debug\Gestor De Alumnos V1.0.exe.config
+C:\Users\user\Desktop\Gestor De Alumnos V2.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor De Alumnos V1.0.exe
+C:\Users\user\Desktop\Gestor De Alumnos V2.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor De Alumnos V1.0.pdb
+C:\Users\user\Desktop\Gestor De Alumnos V2.0\Gestor De Alumnos V1.0\bin\Debug\AlumnosDB.mdf
+C:\Users\user\Desktop\Gestor De Alumnos V2.0\Gestor De Alumnos V1.0\bin\Debug\AlumnosDB_log.ldf
+C:\Users\user\Desktop\Gestor De Alumnos V2.0\Gestor De Alumnos V1.0\bin\Debug\Gestor De Alumnos V1.0.exe
+C:\Users\user\Desktop\Gestor De Alumnos V2.0\Gestor De Alumnos V1.0\bin\Debug\Gestor De Alumnos V1.0.pdb
+C:\Users\user\Desktop\Gestor De Alumnos V2.0\Gestor De Alumnos V1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Gestor De Alumnos V2.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor_De_Alumnos_V1._0.AltaALumno.resources
+C:\Users\user\Desktop\Gestor De Alumnos V2.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor_De_Alumnos_V1._0.Form1.resources
+C:\Users\user\Desktop\Gestor De Alumnos V2.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor_De_Alumnos_V1._0.ListadoCompleto.resources
+C:\Users\user\Desktop\Gestor De Alumnos V2.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor_De_Alumnos_V1._0.Probador.resources
+C:\Users\user\Desktop\Gestor De Alumnos V2.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor_De_Alumnos_V1._0.ModificarAlumno.resources
+C:\Users\user\Desktop\Gestor De Alumnos V2.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor_De_Alumnos_V1._0.Properties.Resources.resources
+C:\Users\user\Desktop\Gestor De Alumnos V2.0\Gestor De Alumnos V1.0\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\Gestor De Alumnos V2.0\Gestor De Alumnos V1.0\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\Gestor De Alumnos V3.0\Gestor De Alumnos V1.0\bin\Debug\Gestor De Alumnos V1.0.exe.config
+C:\Users\user\Desktop\Gestor De Alumnos V3.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor De Alumnos V1.0.exe
+C:\Users\user\Desktop\Gestor De Alumnos V3.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor De Alumnos V1.0.pdb
+C:\Users\user\Desktop\Gestor De Alumnos V3.0\Gestor De Alumnos V1.0\bin\Debug\AlumnosDB.mdf
+C:\Users\user\Desktop\Gestor De Alumnos V3.0\Gestor De Alumnos V1.0\bin\Debug\AlumnosDB_log.ldf
+C:\Users\user\Desktop\Gestor De Alumnos V3.0\Gestor De Alumnos V1.0\bin\Debug\Gestor De Alumnos V1.0.exe
+C:\Users\user\Desktop\Gestor De Alumnos V3.0\Gestor De Alumnos V1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Gestor De Alumnos V3.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor_De_Alumnos_V1._0.AltaALumno.resources
+C:\Users\user\Desktop\Gestor De Alumnos V3.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor_De_Alumnos_V1._0.Form1.resources
+C:\Users\user\Desktop\Gestor De Alumnos V3.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor_De_Alumnos_V1._0.ListadoCompleto.resources
+C:\Users\user\Desktop\Gestor De Alumnos V3.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor_De_Alumnos_V1._0.Probador.resources
+C:\Users\user\Desktop\Gestor De Alumnos V3.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor_De_Alumnos_V1._0.ModificarAlumno.resources
+C:\Users\user\Desktop\Gestor De Alumnos V3.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor_De_Alumnos_V1._0.Properties.Resources.resources
+C:\Users\user\Desktop\Gestor De Alumnos V3.0\Gestor De Alumnos V1.0\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\Gestor De Alumnos V3.0\Gestor De Alumnos V1.0\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\Gestor De Alumnos V3.0\Gestor De Alumnos V1.0\bin\Debug\Gestor De Alumnos V1.0.pdb
+C:\Users\lds\Desktop\Gestor De Alumnos V4.0\Gestor De Alumnos V1.0\bin\Debug\Gestor De Alumnos V1.0.exe.config
+C:\Users\lds\Desktop\Gestor De Alumnos V4.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor De Alumnos V1.0.exe
+C:\Users\lds\Desktop\Gestor De Alumnos V4.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor De Alumnos V1.0.pdb
+C:\Users\lds\Desktop\Gestor De Alumnos V4.0\Gestor De Alumnos V1.0\bin\Debug\AlumnosDB.mdf
+C:\Users\lds\Desktop\Gestor De Alumnos V4.0\Gestor De Alumnos V1.0\bin\Debug\AlumnosDB_log.ldf
+C:\Users\lds\Desktop\Gestor De Alumnos V4.0\Gestor De Alumnos V1.0\bin\Debug\Gestor De Alumnos V1.0.pdb
+C:\Users\lds\Desktop\Gestor De Alumnos V4.0\Gestor De Alumnos V1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lds\Desktop\Gestor De Alumnos V4.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor_De_Alumnos_V1._0.AltaALumno.resources
+C:\Users\lds\Desktop\Gestor De Alumnos V4.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor_De_Alumnos_V1._0.Form1.resources
+C:\Users\lds\Desktop\Gestor De Alumnos V4.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor_De_Alumnos_V1._0.ListadoCompleto.resources
+C:\Users\lds\Desktop\Gestor De Alumnos V4.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor_De_Alumnos_V1._0.ModificarAlumno.resources
+C:\Users\lds\Desktop\Gestor De Alumnos V4.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor_De_Alumnos_V1._0.Properties.Resources.resources
+C:\Users\lds\Desktop\Gestor De Alumnos V4.0\Gestor De Alumnos V1.0\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lds\Desktop\Gestor De Alumnos V4.0\Gestor De Alumnos V1.0\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lds\Desktop\Gestor De Alumnos V4.0\Gestor De Alumnos V1.0\obj\x86\Debug\Gestor_De_Alumnos_V1._0.SeleccionarAlumnoModificar.resources
